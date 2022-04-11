@@ -2,7 +2,7 @@
   "name": "vue3-mini-state-manager",
   "private": true,
   "version": "0.0.0",
-  "description": "A template for typescript-based npm packages",
+  "description": "A mini state manager of vue3",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
   "unpkg": "dist/iife/index.js",
@@ -30,15 +30,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justintaddei/npm-ts-template.git"
+    "url": "git+https://github.com/Eyes22798/vue3-mini-state-manager.git"
   },
   "keywords": [],
-  "author": "Justin Taddei <justin@justintaddei.com> (https://justintaddei.com/)",
+  "author": "Eyes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/justintaddei/npm-ts-template/issues"
+    "url": "https://github.com/Eyes22798/vue3-mini-state-manager/issues"
   },
-  "homepage": "https://github.com/justintaddei/npm-ts-template#readme",
+  "homepage": "https://github.com/Eyes22798/vue3-mini-state-manager#readme",
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
     "@commitlint/config-conventional": "^15.0.0",
