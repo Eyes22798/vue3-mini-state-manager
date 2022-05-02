@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/Eyes22798/vue3-mini-state-manager#readme",
   "devDependencies": {
-    "@commitlint/cli": "^16.2.3",
+    "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.2.1",
     "@rollup/plugin-node-resolve": "^13.2.1",
     "@types/jest": "^27.4.1",
